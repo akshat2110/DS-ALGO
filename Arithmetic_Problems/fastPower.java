@@ -1,3 +1,5 @@
+// To find power of integer less than its range
+
 public class fastPower {
     public static void main(String[] args) {
         int base = 2;
